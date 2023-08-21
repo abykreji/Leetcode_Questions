@@ -20,7 +20,7 @@ If the product is not available in a store, the price will be null in that store
 # Question
  
 
-###Write a solution to rearrange the Products table so that each row has (product_id, store, price). If a product is not available in a store, do not include a row with that product_id and store combination in the result table.
+### Write a solution to rearrange the Products table so that each row has (product_id, store, price). If a product is not available in a store, do not include a row with that product_id and store combination in the result table.
 
 *Return the result table in any order.*
 
@@ -53,7 +53,7 @@ Output:
 | 1          | store3 | 80    |
 +------------+--------+-------+
 ```
-**Explanation: **
+**Explanation:**
 
 >Product 0 is available in all three stores with prices 95, 100, and 105 respectively.
 >Product 1 is available in store1 with price 70 and store3 with price 80. The product is not available in store2.
