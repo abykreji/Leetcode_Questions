@@ -78,13 +78,10 @@ Output:
 ```
 **Explanation:**
 
->Alice and Bob do not have a unique ID, We will show null instead.
-
->The unique ID of Meir is 2.
-
->The unique ID of Winston is 3.
-
->The unique ID of Jonathan is 1.
+Alice and Bob do not have a unique ID, We will show null instead.
+The unique ID of Meir is 2.
+The unique ID of Winston is 3.
+The unique ID of Jonathan is 1.
 
 ## Solution
 
