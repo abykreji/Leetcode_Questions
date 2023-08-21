@@ -1,7 +1,7 @@
 # Question 1
 
 
-##Table: Products
+### Table: Products
 
 ```python
 +-------------+---------+
