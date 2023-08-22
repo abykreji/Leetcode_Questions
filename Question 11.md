@@ -61,5 +61,5 @@ Output:
 
 ```python
 Select ROUND(SELECT COUNT(*) FROM Delivery WHERE order_date = customer_pref_delivery_date) / 
-(SELECT COUNT(*)FROM Delivery)*100,20) AS immediate_precentage;
+(SELECT COUNT(*)FROM Delivery)*100,2) AS immediate_precentage;
 ```
